@@ -10,8 +10,8 @@
 
 - 👋 Hi, I'm @19yisus (Jesus Morales), I'm a web developer with knowledge in 
 - PHP
-  - Laravel
- - Javascript
+ - Laravel
+- Javascript
   - Vue
   - React
   - Jquery. 
