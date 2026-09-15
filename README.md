@@ -1,34 +1,26 @@
-# ¡Hola, soy Jesus Morales! 👋
+# ¡Hola, soy Jesus Morales! 👋 / Hi, I'm Jesus Morales! 👋
 
-Soy un **Mobile Apps Developer** enfocado 100% en el desarrollo de aplicaciones móviles. Trabajo desde casa y me dedico a crear soluciones móviles innovadoras y eficientes. Siempre estoy en busca de nuevos desafíos y aprendizajes en el ámbito del desarrollo de aplicaciones móviles.
+Mobile Apps Developer con más de 2 años de experiencia construyendo y manteniendo aplicaciones móviles nativas y multiplataforma, incluyendo migraciones y actualizaciones de apps en producción. Trabajo 100% remoto y disfruto resolver problemas reales de negocio a través del código: comercio, movilidad, gestión y comunicación.
 
-<!-- 
-## 🚀 Proyectos Destacados
+*Mobile Apps Developer with 2+ years of experience building and maintaining native and cross-platform mobile applications, including migrations and updates on production apps. I work fully remote and enjoy solving real business problems through code: e-commerce, mobility, management, and communication.*
 
-- **[html-portfolio](https://19yisus.github.io/html-portfolio/)**  
-  Mi portafolio profesional, desarrollado con HTML5, Tailwind CSS y Vue.js, donde muestro mis trabajos y experiencias.
+## 🔧 Tecnologías y Herramientas / Tech Stack
 
-- **[app_news-prueba-tecnica](https://github.com/19yisus/app_news-prueba-tecnica)**  
-  Un proyecto en Kotlin que demuestra mi experiencia en el desarrollo de aplicaciones móviles.
+**Móvil / Mobile:** Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), Swift (iOS)
+**Realtime:** Ktor, WebSockets
+**Control de versiones / Version control:** Git, GitHub
 
-- **Otros proyectos:**  
-  Explora mis otros repositorios para ver cómo aplico mis conocimientos en diferentes contextos, ya sea en proyectos forkeados o desarrollos propios.
--->
+## 🌟 Logros / Achievements
 
-## 🔧 Tecnologías y Herramientas
+- **Arctic Code Vault Contributor** — Contribuciones a proyectos archivados en el Arctic Code Vault como parte de la preservación digital del código open source.
+  *Contributions to projects archived in the Arctic Code Vault as part of open source code preservation.*
 
-- **Móvil:** Kotlin
-- **Control de versiones:** Git y GitHub
+## 📫 Conecta conmigo / Connect with me
 
-## 🌟 Logros
+- GitHub: [@19yisus](https://github.com/19yisus)
+- Portfolio: [19yisus.github.io/html-portfolio](https://19yisus.github.io/html-portfolio/)
+- Email: 21moralesjesus@gmail.com
 
-- **Arctic Code Vault Contributor:**  
-  Me enorgullece haber contribuido a proyectos que fueron archivados en el Arctic Code Vault, como muestra de compromiso con el mundo del código y la preservación digital.
+¡Gracias por visitar mi perfil! Explora mis repositorios para conocer más sobre mi trabajo.
 
-## 📫 Conecta conmigo
-
-- [GitHub @19yisus](https://github.com/19yisus)
-
-¡Gracias por visitar mi perfil y no dudes en explorar mis repositorios para conocer más sobre mi trabajo!
-
-*Actualizado en 2025*
+*Thanks for stopping by! Feel free to explore my repositories to see more of my work.*
